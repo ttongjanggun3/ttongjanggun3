@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My name is GyuWon Kim. I'm a student of Kyungpook N'University. I want to learn how to use github. 💩💩💩
 
 <!--
 **ttongjanggun3/ttongjanggun3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
